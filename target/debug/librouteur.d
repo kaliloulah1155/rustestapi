@@ -1,0 +1,1 @@
+C:\DISQUE\COURS\apps\rustproject\backend\routing\target\debug\librouteur.rlib: C:\DISQUE\COURS\apps\rustproject\backend\routing\src\lib.rs C:\DISQUE\COURS\apps\rustproject\backend\routing\src\routes\mod.rs
