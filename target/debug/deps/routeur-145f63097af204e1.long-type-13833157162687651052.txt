@@ -1,0 +1,1 @@
+fn(Json<MirrorJson>) -> impl Future<Output = Json<MirrorJsonResponse>> {mirror_body_json}

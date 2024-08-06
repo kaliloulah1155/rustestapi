@@ -1,0 +1,1 @@
+fn(Json<MirrorJson>) -> impl Future<Output = {type error}> {mirror_body_json}
